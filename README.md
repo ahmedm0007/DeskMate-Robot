@@ -158,3 +158,14 @@ DeskMate is a **physical companion robot** — present on your desk like a lamp 
 ## 📄 License
 
 This project was developed as an academic end-of-year project at INSAT, Tunis. All rights reserved by the authors.
+
+## 🗂️ Mechanical Files (SolidWorks)
+
+Full 3D assembly and parts (SolidWorks + STL) are too large for GitHub.  
+👉 [Download 3D Files (Google Drive)] https://drive.google.com/drive/folders/134jamOGdysIHbzPeDwZQ4sSwSuv-kNpy?usp=sharing
+
+Includes:
+- Full robot assembly (RobotAssemblageV1.SLDASM)
+- All individual parts (SLDPRT)
+- STL files for 3D printing
+- KiCad PCB schematic
