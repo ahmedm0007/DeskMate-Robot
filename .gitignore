@@ -1,0 +1,10 @@
+*.SLDPRT 
+*.SLDASM 
+*.step 
+*.stp 
+*.STL 
+*.3mf 
+*.zip 
+*.pdf 
+*.jfif 
+*-backups/ 
